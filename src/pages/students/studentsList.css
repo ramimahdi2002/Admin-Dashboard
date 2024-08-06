@@ -1,0 +1,100 @@
+
+
+.students-list-container {
+  width: 100%;
+  margin: 10px auto;
+}
+
+.students-list-header {
+  font-size: 24px;
+  text-align: center;
+  color: #192838;
+  margin-top: 50px;
+  margin-bottom: 20px;
+}
+
+.search-bar {
+  margin-bottom: 20px;
+  display: flex;
+  justify-content: center;
+  width: 30%;
+}
+
+.search-bar input {
+  width: 100%;
+  background-color: white;
+  padding: 10px;
+  color: #192838;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.students-table {
+  width: 100%;
+  color: #192838;
+  border-collapse: collapse;
+}
+
+.students-table th,
+.students-table td {
+  font-size: 18px;
+  padding: 10px;
+  text-align: left;
+}
+
+.students-table th {
+  cursor: pointer;
+  background-color: #f0f0f0;
+}
+
+.students-table th:hover {
+  background-color: #e0e0e0;
+}
+
+.action-btn {
+  margin-right: 5px;
+  margin-bottom: 10px;
+  padding: 5px;
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+  border: none;
+  background: none;
+  
+  color: #007bff;
+}
+
+.action-btn:hover {
+  color: #0056b3;
+}
+.add-new-btn {
+  margin-bottom: 20px;
+  display: flex;
+  justify-content: flex-end;
+  font-size: 18
+  px;
+}
+
+.add-new-btn button {
+  padding: 10px 20px;
+  border: none;
+  background-color: #007bff;
+  color: #fff;
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+.add-new-btn button:hover {
+  background-color: #0056b3;
+  
+}
+.student-photo {
+  width: 30px; 
+  height: 30px; 
+  border-radius: 50%; 
+  margin-right: 10px; 
+}
+.student-info {
+  display: flex;
+  align-items: center;
+}

@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "firstName": "Alynn",
+    "lastName": "Torossian",
+    "email": "torossianalynn2@hotmail.com",
+    "registrationDate": "10/04/2020",
+    "username": "alynn",
+    "classes": "Programming2,advanced programming",
+    "phoneNumber": "+96176666666",
+    "address": "456 Park Ave, Town, Country",
+    "image":"/assets/3.jpg",
+    "available":"available"
+  },
+  {
+    "id": 2,
+    "firstName": "Rami",
+    "lastName": "Mahdi",
+    "email": "ramimahdi2@hotmail.com",
+    "registrationDate": "23/06/2002",
+    "username": "ramim",
+    "classes": "Advanced Mathematics",
+    "phoneNumber": "+96171107196",
+    "address": "Baabda, Lebanon",
+    "image": "/assets/OIP.jpg",
+    "available":"available"
+  },
+  {
+    "id": 3,
+    "firstName": "Vana",
+    "lastName": "Mahdi",
+    "email": "vanamahdi@example.com",
+    "registrationDate": "15/09/2015",
+    "username": "vanam",
+    "classes": "Chemistry",
+    "phoneNumber": "+1123456789",
+    "address": "789 Elm St, City, State",
+    "image": "/assets/OIP (1).jpg",
+     "available":"not available"
+   
+  },
+  {
+    "id": 4,
+    "firstName": "Anna",
+    "lastName": "Johnson",
+    "email": "anna.johnson@example.com",
+    "registrationDate": "02/03/2018",
+    "username": "annaj",
+    "classes": "Literature",
+    "phoneNumber": "+1555666777",
+    "address": "123 Oak Ave, Village, Country",
+    "image": "/assets/OIP (2).jpg",
+    "available":"not available"
+
+
+  }
+]

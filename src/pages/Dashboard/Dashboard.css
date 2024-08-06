@@ -1,0 +1,140 @@
+.dashboard {
+  padding: 20px;
+  margin-top: 40px;
+  color: #192838;
+}
+
+.analytics {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+  justify-content: center;
+  text-align: center;
+  gap: 10%;
+}
+
+.chart {
+  width: 300px;
+  height: 300px;
+}
+
+.medals-container {
+  margin-top: 80px;
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+
+.medal-item {
+  width: 30%;
+  background-color: white;
+  padding: 10px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.medal {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.medal-info {
+  display: flex;
+  flex-direction: column;
+  color: #192838;
+  gap: 10px;
+}
+
+.medal-chart {
+  width: 300px;
+  height: 200px;
+}
+
+.list-container {
+  margin-bottom: 20px;
+}
+
+.list {
+  display: flex;
+  flex-direction: column;
+}
+
+.item {
+  display: flex;
+  align-items: center;
+  padding: 10px 0;
+  border-bottom: 1px solid #ddd;
+}
+
+.photo {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  margin-right: 20px;
+  margin-left: 20px;
+}
+
+.details {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.name,
+.classes {
+  font-size: 1.2rem;
+  color: #192838;
+  font-weight: bold;
+}
+
+.degree,
+.email,
+.phone,
+.address,
+.instructor,
+.room,
+.time {
+  font-size: 1.1rem;
+  color: #192838;
+}
+
+.availability {
+  font-size: 0.9rem;
+  margin-top: 5px;
+}
+
+.available {
+  color: green;
+}
+
+.not-available {
+  color: red;
+}
+
+.view-all-button {
+  width: 100%;
+  background-color: orange;
+  border: none;
+  color: white;
+  padding: 10px;
+  margin-top: 20px;
+  border-radius: 4px;
+  font-size: 1.2rem;
+}
+
+.view-all-button:hover {
+  background-color: darkorange;
+}
+
+@media (max-width: 992px) {
+  .list {
+    width: calc(50% - 20px);
+  }
+}
+
+@media (max-width: 768px) {
+  .list {
+    width: 100%;
+  }
+}

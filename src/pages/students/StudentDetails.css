@@ -1,0 +1,61 @@
+.student-details-card {
+    width: 100%;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    color: #192838;
+    text-align: center;
+  }
+
+  .student-details-card h2 {
+    font-size: 28px;
+    margin-bottom: 20px;
+  }
+  
+  .student-details-card p {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  .student-actions {
+    margin-top: 20px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+  }
+  
+  .action-btn {
+    margin-right: 10px;
+    background-color: #007bff;
+    color: #fff;
+    padding: 8px 16px;
+    font-size: 18px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .action-btn:hover {
+    background-color: #0056b3;
+  }
+  
+  
+  .return-button-container {
+    margin: 20px 0;
+  }
+  
+  .return-button {
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 20px;
+    font-size: 18px;
+    text-decoration: none;
+    border-radius: 4px;
+  }
+  
+  .return-button:hover {
+    background-color: #0056b3;
+    color: #fff;
+  }
+  

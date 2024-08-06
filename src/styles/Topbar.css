@@ -1,0 +1,28 @@
+.topbar {
+  top: 0;
+  background-color: #192838;
+  color: #192838;
+  box-shadow: none;
+}
+
+.title {
+  flex-grow: 1;
+  display: none;
+  color: #555;
+}
+
+.right-icons {
+  display: flex;
+  align-items: center;
+  margin-left: auto;
+}
+
+.username {
+  color: white;
+  margin-left: 1rem;
+}
+
+.datetime {
+  margin-left: 2rem;
+  color: white;
+}

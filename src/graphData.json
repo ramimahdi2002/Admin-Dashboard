@@ -1,0 +1,27 @@
+{
+    "goldMedal": {
+      "title": "Gold Medal",
+      "overallGrowth": "82.24%",
+      "monthly": "12.24%",
+      "daily": "42.24%",
+      "growthComparison": "20% High then last month",
+      "dataPoints": [12, 19, 3, 5, 2, 3, 10, 15, 7, 12, 8, 6, 4, 9, 10]
+    },
+    "silverMedal": {
+      "title": "Silver Medal",
+      "overallGrowth": "82.24%",
+      "monthly": "12.24%",
+      "daily": "42.24%",
+      "growthComparison": "20% High then last month",
+      "dataPoints": [10, 14, 6, 4, 9, 7, 13, 11, 5, 8, 12, 10, 8, 6, 4]
+    },
+    "bronzeMedal": {
+      "title": "Bronze Medal",
+      "overallGrowth": "75.00%",
+      "monthly": "10.00%",
+      "daily": "35.00%",
+      "growthComparison": "15% High then last month",
+      "dataPoints": [8, 10, 4, 6, 5, 7, 9, 11, 13, 10, 7, 8, 6, 5, 4]
+    }
+  }
+  

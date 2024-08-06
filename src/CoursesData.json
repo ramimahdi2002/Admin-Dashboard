@@ -1,0 +1,30 @@
+[
+    {
+      "id": 1,
+      "title": "Introduction to Computer Science",
+      "description": "An introductory course to computer science.",
+      "professor": "Dr. Alynn Torossian",
+      "department": "Computer Science",
+      "duration": "10 weeks",
+      "image": "/assets/oip (4).jpg"
+    },
+    {
+      "id": 2,
+      "title": "Advanced Mathematics",
+      "description": "An advanced course on mathematical theories.",
+      "professor": "Dr. Rami Mahdi",
+      "department": "Mathematics",
+      "duration": "12 weeks",
+      "image": "/assets/download.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Chemistry 101",
+      "description": "An introduction to basic chemistry concepts.",
+      "professor": "Dr. Vana mahdi",
+      "department": "Chemistry",
+      "duration": "8 weeks",
+      "image": "/assets/oip (3).jpg"
+    }
+  ]
+  
