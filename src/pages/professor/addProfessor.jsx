@@ -1,7 +1,7 @@
 import { useState } from "react";
 import "./AddProfessor.css";
 import GTextfield from "../../components/GTextfiled";
-
+//add professor page
 const AddProfessor = () => {
   const [formData, setFormData] = useState({
     firstName: "",
